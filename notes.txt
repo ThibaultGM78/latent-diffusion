@@ -1,0 +1,9 @@
+pip install -e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
+
+
+
+Trained models links :
+
+vae_model = https://drive.google.com/file/d/1rAHfYt8NTecwBGK6lN7poQV_sHVEPioJ/view?usp=sharing, 
+
+latent_diffusion_model = https://drive.google.com/file/d/1x5YrbINN5B128J_S7T4QvCnusESDdWcy/view?usp=sharing
