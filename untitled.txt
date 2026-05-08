@@ -1,3 +1,0 @@
-pip install -e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
-
-(colab) : ! pip install taming-transformers-rom1504
